@@ -1,6 +1,5 @@
 - 👋 
    Hi, I’m @adithya-11
-- I’m currently learning C and Phython
 - I’m looking to collaborate on open source and internships
 
 
